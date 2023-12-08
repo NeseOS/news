@@ -8,7 +8,7 @@ Nese 7 23W2 (23 means 2023 and W2 means second of Windows update) on Nese 7.
 Yes. Windows 7 users can now move to Nese 7 (after released) in December 2023 or 2024.
 
 # Nese 7 release date?
-Nese 7 will arrive in December 2023, December 12, 2023 or 2024. 
+Nese 7 will arrive in December 2023, December 12, 2023 or January or later in 2024. 
 
 # Nese 7 still supported by NeseOS Corporation? 
 Yes. Nese 7 users will supported until 2028 (ESU until 2030)
